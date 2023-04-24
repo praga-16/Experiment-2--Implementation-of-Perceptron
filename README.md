@@ -48,8 +48,8 @@ f(x) maps the input features  ‘x’  vector to a scalar value, shifted by a bi
 
 ## PROGRAM:
 ```
-NAME : VISHAL GOWTHAMAN K R
-REG NO: 212221230123
+NAME : PRAGATHEESVARAN AB
+REG NO: 212221240039
 ```
 ### Libraries
 ```
